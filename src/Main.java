@@ -322,5 +322,8 @@ public class Main {
 //
 //        System.out.println(Thing.count);
 //        System.out.println(thing1.id);
+
+
+
     }
 }
